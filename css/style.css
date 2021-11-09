@@ -1,0 +1,15 @@
+body {
+  background-color: #6259ac;
+}
+
+.header {
+  font-family: "Playfair Display", serif;
+}
+.text {
+  font-family: "Open Sans", sans-serif;
+}
+
+.price {
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+}
